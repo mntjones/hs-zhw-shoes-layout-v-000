@@ -64,5 +64,8 @@
 */
 
 .col-3 {
-  
+  display: inline-block;
+	width: 33%;
+	margin: 0;
+	padding:22px 0;
 }
